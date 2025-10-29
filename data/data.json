@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Shadow Strike",
+      "category": "Action",
+      "description": "An elite operative must stop a global terrorist threat before it's too late.",
+      "poster": "https://images.unsplash.com/photo-1739891251370-05b62a54697b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhY3Rpb24lMjBtb3ZpZSUyMHBvc3RlcnxlbnwxfHx8fDE3NjE3MzI1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 142,
+      "rating": 8.2
+    },
+    {
+      "id": "2",
+      "title": "Stellar Odyssey",
+      "category": "Sci-Fi",
+      "description": "A crew of astronauts embarks on a journey to discover a new habitable planet.",
+      "poster": "https://images.unsplash.com/photo-1687985826611-80b714011d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwZmljdGlvbiUyMHNwYWNlfGVufDF8fHx8MTc2MTc1Nzk3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 156,
+      "rating": 9.1
+    },
+    {
+      "id": "3",
+      "title": "Midnight Whispers",
+      "category": "Horror",
+      "description": "A family moves into an old mansion, only to discover its dark secrets.",
+      "poster": "https://images.unsplash.com/photo-1644259268316-b6b54e8a985f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxob3Jyb3IlMjBkYXJrJTIwY2luZW1hfGVufDF8fHx8MTc2MTc2Nzk3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 108,
+      "rating": 7.5
+    },
+    {
+      "id": "4",
+      "title": "Laugh Out Loud",
+      "category": "Comedy",
+      "description": "A struggling comedian gets one last chance to make it big in show business.",
+      "poster": "https://images.unsplash.com/photo-1758726942669-92f7e499018c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb21lZHklMjB0aGVhdGVyfGVufDF8fHx8MTc2MTc1MzQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 95,
+      "rating": 7.8
+    },
+    {
+      "id": "5",
+      "title": "Echoes of Yesterday",
+      "category": "Drama",
+      "description": "A powerful story about love, loss, and the strength to move forward.",
+      "poster": "https://images.unsplash.com/photo-1611889466485-4d8a6d3bd2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkcmFtYSUyMGNpbmVtYSUyMGZpbG18ZW58MXx8fHwxNzYxNzEzMjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 124,
+      "rating": 8.7
+    },
+    {
+      "id": "6",
+      "title": "Love in Paris",
+      "category": "Romance",
+      "description": "Two strangers meet in the city of lights and discover an unexpected connection.",
+      "poster": "https://images.unsplash.com/photo-1663868290007-e8df80a5b909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMG1vdmllfGVufDF8fHx8MTc2MTcyODE3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 112,
+      "rating": 8.0
+    }
+  ]
+}
