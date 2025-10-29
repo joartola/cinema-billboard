@@ -53,6 +53,105 @@
       "poster": "https://images.unsplash.com/photo-1663868290007-e8df80a5b909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMG1vdmllfGVufDF8fHx8MTc2MTcyODE3OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "duration": 112,
       "rating": 8.0
+    },
+    {
+      "id": "7",
+      "title": "The Great Adventure",
+      "category": "Action",
+      "description": "A group of friends embark on a thrilling journey to uncover hidden treasures.",
+      "poster": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aHJpbGxlc3xlbnwxfHx8fDE3NjE3MzI1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 130,
+      "rating": 8.5
+    },
+    {
+      "id": "8",
+      "title": "Galactic Frontier",
+      "category": "Sci-Fi",
+      "description": "Explorers venture into uncharted space to establish a new colony.",
+      "poster": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGNvbG9ueXxlbnwxfHx8fDE3NjE3NTc5NzlfMA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 145,
+      "rating": 9.0
+    },
+    {
+      "id": "9",
+      "title": "Haunted Echoes",
+      "category": "Horror",
+      "description": "A group of friends confronts the malevolent spirits in an abandoned asylum.",
+      "poster": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxob3Jyb3IlMjBzcGlyaXR1YWx8ZW58MXx8fHwxNzYxNzY3OTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 110,
+      "rating": 7.6
+    },
+    {
+      "id": "10",
+      "title": "Comedy Nights",
+      "category": "Comedy",
+      "description": "A hilarious journey of a stand-up comedian trying to make it big.",
+      "poster": "https://images.unsplash.com/photo-1515165562835-cf7d6f0d4f0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb21lZHklMjBzaG93YmV8ZW58MXx8fHwxNzYxNzUzNDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 100,
+      "rating": 7.9
+    },
+    {
+      "id": "11",
+      "title": "Tides of Emotion",
+      "category": "Drama",
+      "description": "An emotional rollercoaster exploring the complexities of human relationships.",
+      "poster": "https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkcmFtYSUyMGNpbmVtYXxlbnwxfHx8fDE3NjE3MTMyNjlfMA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 135,
+      "rating": 8.8
+    },
+    {
+      "id": "12",
+      "title": "Romantic Escapade",
+      "category": "Romance",
+      "description": "A heartwarming tale of two souls finding love in unexpected places.",
+      "poster": "https://images.unsplash.com/photo-1494526585095-c41746248156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMGxvdmV8ZW58MXx8fHwxNzYxNzI4MTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 115,
+      "rating": 8.1
+    },
+    {
+      "id": "13",
+      "title": "Urban Warriors",
+      "category": "Action",
+      "description": "Street fighters unite to take down a powerful crime syndicate.",
+      "poster": "https://images.unsplash.com/photo-1517841905240-472988babdf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhY3Rpb24lMjBzdHJlZXQlMjBmaWdodGVyfGVufDF8fHx8fDE3NjE3MzI1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 140,
+      "rating": 8.3
+    },
+    {
+      "id": "14",
+      "title": "Beyond the Stars",
+      "category": "Sci-Fi",
+      "description": "A scientist discovers a wormhole that leads to a parallel universe.",
+      "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXJhbGxlbCUyMHVuaXZlcnNlfGVufDF8fHx8MTc2MTc1Nzk3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 150,
+      "rating": 9.2
+    },
+    {
+      "id": "15",
+      "title": "Silent Screams",
+      "category": "Horror",
+      "description": "A detective unravels the mystery behind a series of chilling murders.",
+      "poster": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsbGluZyUyMG11cnJlcnxlbnwxfHx8fDE3NjE3Njc5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 105,
+      "rating": 7.4
+    },
+    {
+      "id": "16",
+      "title": "The Funny Bone",
+      "category": "Comedy",
+      "description": "A group of friends navigates the ups and downs of life with humor and heart.",
+      "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1cHNsYW5kaW5nJTIwZnJpZW5kc3xlbnwxfHx8fDE3NjE3NTM0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 98,
+      "rating": 7.7
+    },
+    {
+      "id": "17",
+      "title": "Waves of Passion",
+      "category": "Romance",
+      "description": "A captivating love story set against the backdrop of a coastal town.",
+      "poster": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMGxvdmV8ZW58MXx8fHwxNzYxNzI4MTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "duration": 118,
+      "rating": 8.2
     }
   ],
   "categories": [
