@@ -1,6 +1,13 @@
 import { Button, Modal, StyleSheet, Text, TextInput, View } from 'react-native';
+import { useState } from 'react';
+import data from '../data/data.json';
+import CategoriesDropDown from './CategoriesDropDown';
 
 export default function AddMovieModal({ visible, onClose, onSubmit }) {
+
+  const categories = data.categories;
+  const [selectedCategory, setSelectedCategory] = useState(null);
+
   return (
     <Modal
       animationType="slide"
@@ -14,6 +21,7 @@ export default function AddMovieModal({ visible, onClose, onSubmit }) {
           {/* Form elements would go here */}
           <TextInput placeholder="Title" style={styles.input} />
           <TextInput placeholder="Poster URL" style={styles.input} />
+          <CategoriesDropDown categories={categories} onSelectCategory={setSelectedCategory} selectedCategory={selectedCategory} />
           <View style={styles.buttonContainer}>
             <Button
               title="Submit"

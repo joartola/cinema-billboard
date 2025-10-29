@@ -21,11 +21,6 @@ export const getRatingStars = (rating) => {
   return '⭐'.repeat(stars);
 };
 
-/**
- * Converts a minute duration to "Xh Ym" format
- * @param {number} minutes - Movie duration in minutes
- * @returns {string} - Formatted duration string
- */
 export const formatDuration = (minutes) => {
 
 };
