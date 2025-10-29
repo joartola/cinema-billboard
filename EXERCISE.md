@@ -96,6 +96,13 @@ Actualmente, la aplicación importa datos directamente del archivo JSON. Necesit
 
 **Importante:** Asegúrate de que tanto películas como categorías sean obtenidas de la API, no de importaciones locales.
 
+**Endpoints disponibles:**
+- `http://localhost:3000/movies` - Obtiene todas las películas
+- `http://localhost:3000/categories` - Obtiene todas las categorías
+- `http://localhost:3000/movies?category=Romance` - Obtiene películas filtradas por categoría (ejemplo con Romance)
+
+**Nota sobre filtrado:** json-server permite filtrar datos usando parámetros de query. Por ejemplo, si necesitas obtener solo películas de una categoría específica, puedes agregar `?category=NombreCategoria` al endpoint. Esto puede ser útil para optimizar las peticiones en lugar de filtrar en el cliente.
+
 ---
 
 ### Requerimiento 4: Implementar Vistas de Películas
